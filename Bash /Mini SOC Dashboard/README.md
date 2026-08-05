@@ -1,4 +1,6 @@
  Create a script that displays something like:
+
+ 
 ===== SOC Dashboard =====
 Date: Wed Aug 5
 
